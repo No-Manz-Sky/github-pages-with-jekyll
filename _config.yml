@@ -1,13 +1,14 @@
 title: Video Games are Changing the World! 
+Date: 2020-07-31
 author: No_Manz_Sky
 email: brendanrfairfield2012@gmail.com
 description: 
 Video Games are awesome and have the potential to transform the world :)
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  No_Manz_Sky # DO NOT include the @ character, or else the build will fail!
+twitter_username: your-twitter-handle 
+github_username:  No_Manz_Sky 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true 
 
 theme: minima
