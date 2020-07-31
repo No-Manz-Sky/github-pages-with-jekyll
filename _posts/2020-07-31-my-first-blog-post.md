@@ -1,3 +1,7 @@
+----
+title: "Changing the World Through Video Games"
+date: 2020-07-31
+----
 Hello Its Brendan and I am just learning about how video games can change the world!
 Video Games can Change the world for good not just for evil.
 The First topic is social innovation and collobration!
